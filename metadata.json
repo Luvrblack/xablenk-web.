@@ -1,0 +1,6 @@
+{
+  "name": "XA- BLENK",
+  "description": "Premium event production services: audio, lighting, videotron, rigging, and stage solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
